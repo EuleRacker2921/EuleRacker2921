@@ -1,18 +1,23 @@
 <p align="center">
   <a href="https://klusmo.de/" target="_blank" rel="noreferrer"><img src="./assets/KlusmoLogo.png" alt="my banner"></a>
 </p>
+<h3 align="center">
+Moin, ich bin Leon 👋
+</h3>
+<h2 align="center">
+Ich spezialisiere mich gerade zum Backend Developer 💻 und arbeite mich in die Firmengründung ein
+</h2> 
 
-<!--
-**EuleRacker2921/EuleRacker2921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Ich arbeite gerade an:
 
-Here are some ideas to get you started:
+- KlusmoMGR bei Klusmo UG | in Gründung
+- meinem Abitur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Ich lerne gerade:
+
+- tiefergehendes in Themen, wie Django & APIs
+- SQL
+- Firmengründung
+
+## 👯 Ich arbeite zusammen mit:
+- ![Finn Klusmann](https://github.com/finnk8) 
