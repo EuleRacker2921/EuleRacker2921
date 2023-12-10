@@ -20,4 +20,4 @@ Ich spezialisiere mich gerade zum Backend Developer 💻 und arbeite mich in die
 - Firmengründung
 
 ## 👯 Ich arbeite zusammen mit:
-- ![Finn Klusmann](https://github.com/finnk8) 
+- <a href="https://github.com/finnk8">Finn Klusmann </a>
